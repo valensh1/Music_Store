@@ -2,7 +2,7 @@
 
 
 ## About
-The idea of this project is to design a Music e-commerce site with full CRUD capability
+The idea of this project is to design a Music e-commerce site with full CRUD capability.
 
 
 ## Technologies Used:
